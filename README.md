@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- ⚡ [YT Channel](https://www.youtube.com/@GeneseAI)
+
 <!--
 **xuetengcode/xuetengcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
